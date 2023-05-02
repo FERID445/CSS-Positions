@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#outer{
+    border: 3px solid black;
+    font-size: 16px;
+    width: 40%;
+    height: 50vh;
+    margin: 16px;
+}
+
+#Inner{
+    border: 3px solid red;
+    width: 70%;
+    height: 25vh;
+    color: red;
+}
+
+#Abs{
+    font-size: 16px;
+    margin: 16px 0;
+    height: 200px;
+    color:black;
+    position: absolute;
+}
