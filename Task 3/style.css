@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    border: 1px solid red;
+    width: 500px;
+    height: 385px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: #B0E1E6;
+    border-radius: 10%;
+    position: absolute;
+    top: 50px;
+}
+
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: #4169E0;
+    border-radius: 10%;
+}
+
+.three{
+    width: 100px;
+    height: 100px;
+    background-color: #A1522D;
+    border-radius: 10%;
+}
+
+.four{
+    width: 100px;
+    height: 100px;
+    background-color: #695ACD;
+    border-radius: 10%;
+}
+
+div{
+    margin: 20px;
+    padding-left:35px;
+}

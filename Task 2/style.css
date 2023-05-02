@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: bebas neue;
+    font-size: 22px;
+    
+}
+
+header{
+    width: 700px;
+    height: 500px;
+    border: 20px solid black;
+    margin: 18px auto;
+    position: relative;
+}
+
+#abs{
+    width: 100px;
+    height: 100px;
+    background-color: #C8C6FA;
+    position: absolute;
+    color: #747474;
+    position: absolute;
+    padding: 35px 10px;
+    margin: 5px;
+}
+
+#first{
+    margin: 40px auto;
+    width: 355px;
+    height: 100px;
+    background-color: #D6E9FE;
+    padding: 0 0px 0 13px;
+}
+
+#static1{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+    margin-right: 14px;
+}
+
+#relative{
+    width: 100px;
+    height: 100px;
+    background-color: #B2D6FF;
+    display: inline-block;
+    margin-right: 11px;
+    padding-left: 13px;
+    position: absolute;
+    top: 30px;
+    left: 280px;
+}
+
+#static10{
+        width: 100px;
+        height: 100px;
+        border: 4px dotted #B2D6FF;
+        margin-right: 15px;
+        margin-left: 10px;
+        display: inline;
+}
+
+#static11{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+}
+
+
+#second{
+    margin: 40px auto;
+    width: 355px;
+    height: 100px;
+    background-color: #D6E9FE;
+    padding: 0 0px 0 13px;
+}
+
+#static2{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+    margin-right: 81px;
+    margin-left: 20px;
+}
+
+#static22{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+    margin-left: 3px;
+}
+
+#third{
+    margin: 40px auto;
+    width: 355px;
+    height: 100px;
+    background-color: #D6E9FE;
+    padding: 0 0px 0 13px;
+}
+
+#static3{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#fixed{
+    width: 100px;
+    height: 100px;
+    background-color: #F09A9D;
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 25px ;
+    position:fixed;
+}
+
+#static33{
+    width: 100px;
+    height: 100px;
+    background-color: #F5CF8E;
+    display: inline-block;
+    margin-left: 115px;
+}
+
+span{
+    color: #747474;
+    padding: 35px 21px;
+}
+
+p{
+    opacity: 0;
+}
