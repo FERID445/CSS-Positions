@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+div{
+    padding: 8px;
+}
+
+.div1{
+    width: 220px;
+    height: 160px;
+    border: 1px solid black;
+    position: absolute;
+    margin: 30px;
+}
+
+.div2{
+    width: 180px;
+    height: 120px;
+    border: 1px solid black;
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    background-color: white;
+}
+
+.div3{
+    width: 400px;
+    height: 120px;
+    border: 1px solid black;
+    position: absolute;
+    left: 30px;
+    top: 255px;
+    background-color: white;
+}
+
+.div4{
+    width: 100px;
+    height: 300px;
+    border: 1px solid black;
+    position: absolute;
+    background-color: white;
+    left: 410px;
+    top: 10px;
+}
